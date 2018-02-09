@@ -1,5 +1,5 @@
 /**
- * Class representing the items to buy at Burdell's
+ * Class representing the items to buy at Brittain
  * @author CS1331 TAs
  * @version 1
  */
